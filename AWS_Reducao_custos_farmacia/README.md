@@ -1,8 +1,8 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 Data: 06 de Janeiro de 2026
-Empresa: Umbrella Corporation
-Responsável: Eduardo Silva dos Reis
+- Empresa: Umbrella Corporation
+- Responsável: Eduardo Silva dos Reis
 
 ## Introdução
 Este relatório apresenta o processo de implementação de ferramentas na empresa Umbrella Corporation, realizado por Eduardo Reis. O objetivo do projeto foi elencar 3 serviços AWS, 
